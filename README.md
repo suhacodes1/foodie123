@@ -1,4 +1,4 @@
-# 🍔 FoodDel123
+# 🍔 Welcome to FoodDel123!
 
 FoodDel123 is a modern food delivery frontend website built using React.js. It features a responsive design, interactive components, and a seamless user experience — designed to showcase how a real food ordering platform might function from a customer's perspective.
 
@@ -29,7 +29,9 @@ FoodDel123 is a modern food delivery frontend website built using React.js. It f
 
 ## 📸 Screenshots
 
-> *(Add screenshots here if you want — just drag image files into your repo and link like so: `![Home](./src/assets/homepage.png)`)*
+> ### 🏠 Home Page `![Home](![image](https://github.com/user-attachments/assets/4dbe253e-58c5-476d-9c5e-f31ded444f46)`
+)
+)`)*
 
 ---
 
