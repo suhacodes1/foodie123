@@ -29,9 +29,10 @@ FoodDel123 is a modern food delivery frontend website built using React.js. It f
 
 ## 📸 Screenshots
 
-> ### 🏠 Home Page `![Home](![image](https://github.com/user-attachments/assets/4dbe253e-58c5-476d-9c5e-f31ded444f46)`
-)
-)`)*
+### 🏠 Home Page
+
+![Home](https://github.com/user-attachments/assets/4dbe253e-58c5-476d-9c5e-f31ded444f46)
+
 
 ---
 
