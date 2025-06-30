@@ -24,7 +24,10 @@
     border-radius: 3px 0px 0px 3px;
     cursor: pointer;
 }
-
+.sidebar-option.active{
+    background-color: #b7ffbb;
+    border-color: rgb(85, 141, 30);
+}
 @media(max-width:900px) {
     .sidebar-option p{
         display: none;
