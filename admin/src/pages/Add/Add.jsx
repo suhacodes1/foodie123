@@ -74,7 +74,7 @@ toast.error(response.data.message)
       <option value="Salad">Salad</option>
       <option value="Rolls">Rolls</option>
       <option value="Deserts">Deserts</option>
-      <option value="Sandwhich">Sandwhich</option>
+      <option value="Sandwich">Sandwich</option>
       <option value="Cake">Cake</option>
       <option value="Pure Veg">Pure Veg</option>
       <option value="Pasta">Pasta</option>
