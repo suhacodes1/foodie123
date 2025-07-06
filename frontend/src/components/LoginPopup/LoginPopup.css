@@ -42,7 +42,7 @@
 
 .login-popup-inputs input{
     outline: none;
-    border: 1px solid #9fe5bcdb;
+    border: 1px solid darkgreen;
     padding: 10px;
     border-radius: 4px;
 }
